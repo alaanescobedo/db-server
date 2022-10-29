@@ -1,0 +1,48 @@
+{
+  "Products": {
+    "id": {
+      "string": {}
+    },
+    "name": {
+      "string": {}
+    },
+    "description": {
+      "string": {}
+    },
+    "description_short": {
+      "string": {}
+    },
+    "price": {
+      "string": {}
+    },
+    "category": {
+      "string": {}
+    },
+    "img": {
+      "string": {}
+    },
+    "stock": {
+      "int": { "min": 0, "max": 1000000 }
+    }
+  },
+  "Users": {
+    "id": {
+      "string": {}
+    },
+    "fullName": {
+      "string": {}
+    },
+    "username": {
+      "string": {}
+    },
+    "email": {
+      "string": {}
+    },
+    "password": {
+      "string": {}
+    },
+    "telephone": {
+      "string": {}
+    }
+  }
+}
