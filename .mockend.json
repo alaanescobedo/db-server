@@ -1,9 +1,7 @@
 {
   "Product": {
     "id": {
-      "string": [
-        "xXMata_Viejitas2000Xx"  
-      ]
+      "string": {}
     },
     "name": {
       "string": {}
@@ -35,7 +33,9 @@
       "string": {}
     },
     "username": {
-      "string": {}
+      "string": [
+        "xXMata_Viejitas2000Xx"  
+      ]
     },
     "email": {
       "string": {}
