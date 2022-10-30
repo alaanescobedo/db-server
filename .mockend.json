@@ -19,7 +19,9 @@
       "string": {}
     },
     "img": {
-      "string": {}
+      "string": [
+      "https://via.placeholder.com/500"  
+      ]
     },
     "stock": {
       "int": { "min": 0, "max": 1000000 }
