@@ -4,7 +4,17 @@
       "string": {}
     },
     "name": {
-      "string": {}
+      "string": [
+        "Playera Batman Caballero de la noche",
+        "Playera Aerosmith \"Permanent Vacation\"",
+        "Playera Alejandro Fernández mariachi"
+        "Playera Ariana Grande arcoiris",
+        "Playera Appa atardecer",
+        "Playera BTS playa",
+        "Playera Caifanes Logo",
+        "Playera Cardi B carro",
+        "Playera Chalino Sánchez jefe"
+      ]
     },
     "description": {
       "string": {}
